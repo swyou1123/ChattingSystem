@@ -1,0 +1,11 @@
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\bin\Debug\net8.0\ChatLib.deps.json
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\bin\Debug\net8.0\ChatLib.dll
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\bin\Debug\net8.0\ChatLib.pdb
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.AssemblyInfoInputs.cache
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.AssemblyInfo.cs
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.csproj.CoreCompileInputs.cache
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.dll
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\refint\ChatLib.dll
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ChatLib.pdb
+C:\Users\swyou\Desktop\CharServer\ChatLib\ChatLib\obj\Debug\net8.0\ref\ChatLib.dll
